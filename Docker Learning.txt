@@ -1,0 +1,40 @@
+
+1. Try to run as much as Docker images
+2. Then try to create new Docker images.
+3. Create a Docker image push in to Docker Hub.
+4. For Operation Team - Needs to good at running containers and Networking section.
+5. Developer Team  - Building a Docker image in a efficient way.
+
+
+Kubernetes:
+I. Why Kubernetes: 
+
+	1. Micro Service Architecture
+	2. Non Functional requirements - 
+		a) Container Orchestration - Manage 1000s of microservices declaratively.
+		b) Features				   - Auto Scaling, Service Discovery, Load Balancing, Self Healing, Zero Downtime Deployments. 
+		c) Cloud Neutral		   - Standardized platform on any infrastructure.
+
+* Docker Swarm is alternative microservices for Kubernetes.
+* Easiest way to run kubernetes is Cloud Platform.
+* 	
+
+		a) AKS - Azure Kubernetes Services.
+		b) GKS - Google Kubernetes Services
+		c) EKS - Elastic Kubernetes Services(for AWS ECS)
+
+* Operation team and Developer team needs to know about Kubernetes.
+
+How do i get Started:
+* Use Kubernetes in local machine is not a good option(not recommended one).
+* TO learn about Kubernetes Use Google cloud free tier account.
+	a) Create a Container 
+	b) Deploy it to kubernetes
+	c) Try and Create multiple instances
+	d) Instances communicate with each other.
+	e) Create a Cluster in the cloud and deploy something.
+	f) Declarative Configuration.
+	g) Helm Concept. - Helps to avoid duplication.
+	h) 
+
+	

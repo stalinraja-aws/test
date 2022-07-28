@@ -1,0 +1,35 @@
+
+I. Three Key Elements:
+a) Communication - between different teams within the organization
+b) Feedback of our Performance
+c) Automation 
+
+Practices which are part of Devops:
+1. Continuous Integration
+2. Continuous Deployment
+3. Automation of Environment(Infrastructure as a Code)
+
+
+Tools to learn Devops
+1. CI/CD Process - Jenkins, Bamboo, Hatsun, Azure Devops, AWS Pipelines.
+2. Infrastructure as a Code Categorize in to
+	a) Creating a Infrastructure : Terraform, Cloud Formation, AWS CDK, Pulumi
+	b) 
+
+
+Where do i Start:
+1. Containers and Container Orchestration(Docker & Kubernetes)
+2. Azure Devops
+3. Terraform
+
+Three things to learn in 2022:
+
+1. Learn Docker & Kubernetes (Latest trend from Cloud first to Container first) 
+2. Learn Ansible
+3. Learn Terraform
+
+To Complete Certificate in 2022:
+1. Azure 104								-  Target July 2022
+2. AWS Solution Architect					-  Target October 2022
+3. Either Kubernetes or Terraform			-  Target December 2022
+
